@@ -8,6 +8,7 @@ public class PsaGitExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PsaGitExampleApplication.class, args);
+		System.out.println("hello changes");
 	}
 
 }
